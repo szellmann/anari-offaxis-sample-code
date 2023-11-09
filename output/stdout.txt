@@ -1,0 +1,9 @@
+Strategy 1 ...
+rendered frame in 1008.968689ms
+Output: strategy1.png
+Strategy 2 ...
+rendered frame in 1002.098328ms
+Output: strategy2.png
+Strategy 3 ...
+rendered frame in 991.129028ms
+Output: strategy3.png
